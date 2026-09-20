@@ -1,6 +1,6 @@
 # 📊 Project Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](snapshots/dashboard.png)
 
 ---
 
@@ -119,7 +119,7 @@ Asian Paints experienced a decline in profitability during FY25 followed by a re
 
 EBITDA increased from **₹6,578.82 Cr in FY25 to ₹7,419.72 Cr in FY26**, while PAT increased from **₹3,709.71 Cr to ₹4,394.69 Cr**.
 
-![Income Statement](screenshots/income-statement.png)
+![Income Statement](snapshots/income-statement.png)
 
 ---
 
@@ -166,7 +166,7 @@ The model includes:
 
 The balance sheet remained relatively conservatively leveraged, with debt-to-equity of approximately **0.10x** in FY26.
 
-![Balance Sheet](screenshots/balance-sheet.png)
+![Balance Sheet](snapshots/balance-sheet.png)
 
 ---
 
@@ -199,7 +199,7 @@ The model covers:
 
 FY26 operating cash flow increased to **₹7,088.18 Cr**, reflecting a significant recovery in cash generation compared with FY25.
 
-![Cash Flow Statement](screenshots/cash-flow.png)
+![Cash Flow Statement](snapshots/cash-flow.png)
 
 ---
 
@@ -235,7 +235,7 @@ The model calculates key profitability, liquidity, leverage and efficiency ratio
 | Asset Turnover | 1.03x |
 | Interest Coverage | 31.68x |
 
-![Financial Ratios](screenshots/financial-ratios.png)
+![Financial Ratios](snapshots/financial-ratios.png)
 
 ---
 
@@ -338,7 +338,7 @@ The model:
 | Shares Outstanding | 95.92 Cr |
 | **DCF Intrinsic Value** | **₹741.60/share** |
 
-![DCF Valuation](screenshots/dcf-valuation.png)
+![DCF Valuation](snapshots/dcf-valuation.png)
 
 ---
 
@@ -365,7 +365,7 @@ The analysis uses:
 | EV/Sales | ₹1,262.61 |
 | **Average Comparable Value** | **₹1,439.24** |
 
-![Comparable Companies](screenshots/comparable-companies.png)
+![Comparable Companies](snapshots/comparable-companies.png)
 
 ---
 
@@ -386,7 +386,7 @@ The DCF valuation is tested across different combinations of:
 
 The sensitivity analysis demonstrates how changes in discount rate and terminal growth assumptions can materially affect the estimated intrinsic value.
 
-![Sensitivity Analysis](screenshots/sensitivity-analysis.png)
+![Sensitivity Analysis](snapshots/sensitivity-analysis.png)
 
 ---
 
