@@ -480,6 +480,20 @@ Changes in these inputs can materially affect estimated intrinsic value.
 
 ---
 
+# 📝 Conclusion
+
+The financial modeling and valuation analysis provides a comprehensive view of Asian Paints Ltd.'s historical performance, projected financials, and valuation under multiple methodologies.
+
+The analysis shows a recovery in profitability in FY26, supported by improved EBITDA and PAT, while the company's balance sheet remains relatively conservatively leveraged. The forecast assumes moderate revenue growth through FY31E, accompanied by gradual improvement in operating margins.
+
+The valuation analysis produces different outcomes across methodologies. The FCFF-based DCF estimates an intrinsic value of **₹741.60 per share**, while the comparable-company methods produce implied values ranging from **₹1,262.61 to ₹1,600.66 per share**, with an average comparable value of **₹1,439.24 per share**.
+
+The difference between the DCF and relative valuation results demonstrates the impact of assumptions such as **WACC, terminal growth, working capital, cash-flow generation, and market valuation multiples**. The sensitivity analysis further highlights the importance of testing these assumptions rather than relying on a single valuation outcome.
+
+Overall, the project demonstrates an end-to-end approach to **financial statement analysis, forecasting, financial modeling, company valuation, peer benchmarking, and investment analysis** using Microsoft Excel.
+
+---
+
 # 💼 Skills Demonstrated
 
 This project demonstrates practical skills relevant to **Financial Analyst, Equity Research, Investment Banking, Asset Management and Wealth Management** roles.
